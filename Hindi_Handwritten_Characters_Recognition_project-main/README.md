@@ -17,16 +17,16 @@ The advantage of using CNN in character recognition is:
 ### Download the repo:
    - Download as a ZIP File:
 
-https://github.com/aman7kumar/Hindi_Handwritten_Characters_Recognition_project.zip
+https://github.com/Vishalkumar-14/Hindi_Handwritten_Characters_Recognition_project.zip
 
 ### Clone the repo:
    - using CLI:
 ```
-git clone https://github.com/aman7kumar/Hindi_Handwritten_Characters_Recognition_project
+git clone https://github.com/Vishalkumar-14/Hindi_Handwritten_Characters_Recognition_project
 ```
    - using link:
                  
-   https://github.com/aman7kumar/Hindi_Handwritten_Characters_Recognition_project
+   https://github.com/Vishalkumar-14/Hindi_Handwritten_Characters_Recognition_project
    
 ### 2. Additional requirements
    - [Python](https://www.python.org/) - Programming language used
